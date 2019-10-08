@@ -1,0 +1,682 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="580c34b3-ba43-4c94-940e-1b551cad97f2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../projet1/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet1/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet1/src/resultat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Adrar__Javascript.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/AlgoPHPDates/algodates.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/AlgoURL+superglobal/bonjour.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/AlgoURL+superglobal/coucou.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/Exercices_PHP.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/PHP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/PHPAlgo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/PHPAlgoBoucles.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/PHPAlgoConditions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/PHPAlgoFonctions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/PHPAlgoTableaux.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Algo PHP/TwitterAPIExchange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/BoutonDeSupression+Carousel/Carouselsimple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/BoutonDeSupression+Carousel/indexbouton.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/BoutonDeSupression+Carousel/indexcarousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/BoutonDeSupression+Carousel/javascriptbouton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/BoutonDeSupression+Carousel/javascriptcarousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/BoutonDeSupression+Carousel/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/BoutonDeSupression+Carousel/testjavascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Exo perso/images/slime.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Exo perso/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Exo perso/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Introduction.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/css/normalize.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/_photocredits.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/assorted-donuts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/award.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/bg-tile-brown.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/bg-tile-yellow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/bg-tile.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/donut-shoppe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/fresh-whole-ingredients.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/header-divider.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/icon-apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/icon-calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/icon-news.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/icon-recycle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/logo-hover.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/tiny-donut.cur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/images/tiny-donut.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-avec-html/Squelette/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/Squelette-sans-html.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Donut/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration2/briefing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration2/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration2/elements/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration2/elements/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration2/elements/mag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration2/maquette.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/briefing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/images/banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/images/pic01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/images/pic02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/images/pic03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/maquette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Integration3/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/Index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/briefing.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/dimensions.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/PaxHeader/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/PaxHeader/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/PaxHeader/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/PaxHeader/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/image2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/images/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/HTMLCSS/Intégration1correction/maquette.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Minichat/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Minichat/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Minichat/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Minichat/pokemonbackground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Minichat/style.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/TP_Zoo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/Zoo.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/Zoo_correction_laure.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/animal.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/bird.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/meateater.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/tiger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/PHP_objet_Zoo/vegetarian.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/React/mon_morpion/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/SQL_Bases.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/TP_WP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Verif formulaire/algo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Verif formulaire/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/Verif formulaire/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/ajax_request.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/apache/TP_WP.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/apache/info.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/apache/jquery script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/fonctions_fleches.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/formateurs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/intro-ajax.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/jquery script" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/BDD/pokemon_tp.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/BDD/pokemonv2.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_battle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_cave.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_desert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_foret.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_psy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_sand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_snow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/arenes/arena_water.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/choix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/combat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/combat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/1coupenotte.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/1incisache.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/1tranchodon.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/2pingoleon.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/2prinplouf.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/2tiplouf.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/3mastouffe.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/3ponchien.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/3ponchiot.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/4crocorible.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/4escroco.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/4mascaiman.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/5lixy.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/5luxio.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/5luxray.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/6grotichon.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/6gruiki.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/6roitiflam.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/7charkos.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/7kranidos.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/8boskara.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/8torterra.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/cri_pokemons/8tortipouss.ogg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/1coupenotte_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/1coupenotte_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/1incisache_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/1incisache_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/1tranchodon_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/1tranchodon_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/2pingoleon_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/2pingoleon_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/2prinplouf_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/2prinplouf_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/2tiplouf_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/2tiplouf_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/3mastouffe_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/3mastouffe_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/3ponchien_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/3ponchien_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/3ponchiot_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/3ponchiot_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/4crocorible_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/4crocorible_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/4escroco_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/4escroco_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/4mascaiman_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/4mascaiman_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/5lixy_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/5lixy_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/5luxio_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/5luxio_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/5luxray_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/5luxray_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/6grotichon_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/6grotichon_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/6gruiki_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/6gruiki_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/6roitiflam_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/6roitiflam_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/7charkos_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/7charkos_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/7kranidos_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/7kranidos_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/8boskara_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/8boskara_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/8torterra_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/8torterra_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/8tortipouss_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/pokemons/8tortipouss_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/background_global.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/combat_frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/frame.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/frame_switch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/hud_p1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/hud_p2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/logo_pokemon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/modal_map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/okka.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/pokemon_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/toto.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/user_attack_empty.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/user_interact.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/css/user_interface/versus_alert.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/exemple_laure/Personnage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/exemple_laure/appel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/html/Pokemon Hollow.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/html/Pokemon-le-jeu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/html/Pokemon_Solid.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/html/combat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/html/modal_attack_evo1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/html/modal_map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/Colorful-Pokemon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/avatar-form.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/homepage.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/logo-header.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/logo-navbar-closed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/map-jeu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/navbar-logo.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokeindex.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemon-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/1coupenotte_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/1coupenotte_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/1incisache_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/1incisache_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/1tranchodon_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/1tranchodon_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/2pingoleon_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/2pingoleon_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/2prinplouf_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/2prinplouf_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/2tiplouf_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/2tiplouf_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/3mastouffe_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/3mastouffe_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/3ponchien_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/3ponchien_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/3ponchiot_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/3ponchiot_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/4crocorible_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/4crocorible_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/4escroco_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/4escroco_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/4mascaiman_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/4mascaiman_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/5lixy_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/5lixy_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/5luxio_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/5luxio_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/5luxray_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/5luxray_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/6emboar_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/6emboar_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/6grotichon_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/6grotichon_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/6gruiki_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/6gruiki_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/7charkos_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/7charkos_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/7kranidos_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/7kranidos_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/8boskara_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/8boskara_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/8torterra_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/8torterra_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/8tortipouss_back.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/images/pokemons/8tortipouss_front.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/js/test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/Combat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/Connexion.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/Joueur.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/Login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/Pokemon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/Pokemon2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/choix.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/equipe.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/pok_choice.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemon/php/testUsers.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Permanent_Marker/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Permanent_Marker/PermanentMarker-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/ekans.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/ekansback.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/hud_fight_player.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/hud_fight_player.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/pidgey.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/pidgeyface.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/pikachu.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/pikachuface.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/rattata.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/rattataface.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/sandshrew.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/sandshrewface.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/spearow.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/Pokegif/spearowface.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/arene.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/arene_psy-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/arenestyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/attaque.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/choixdresseurs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/choixpokemon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/combat_post.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/combatpokemon.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/combatpokemon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/compteur.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/degatcombat.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/dresseur.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/exitcombat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/barbara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/ekans.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/pidgey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/pikachu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/rattata.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/sacha.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/sandshrew.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/images/spearow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/mybattle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/mypokemon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/pokeAPI.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/pokemonwar.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/pokewar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/pokemonwar/requete_WE.odt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/contact.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/music.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/news.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/photo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/tour.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/css/video.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/album-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/album-03-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/album-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/featured-bio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-07.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/gallery-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/images redimensiones/background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/images redimensiones/video-big-love.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/images redimensiones/video-like-a-rose.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/images redimensiones/video-waitin-on-june.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/video-big-love-550-530x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/video-like-a-rose-530x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images/video-waitin-on-june-530x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_music/album-03-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_music/album-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_music/video-like-a-rose-530x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_tour/album-03-300x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_videos/gallery-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_videos/gallery-08.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_videos/gallery-09.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_videos/video-big-love-550-530x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_videos/video-like-a-rose-530x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/images_pages_videos/video-waitin-on-june-530x300.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/music.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/photos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/tour.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/projet-commun/videos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/css/NEWstyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/dico.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/img/donuts.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/img/fond.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/img/homer.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/img/homer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/img/hvomit.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/img/simpsons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/index1.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/js/zoom_modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/Exception.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/OAuth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/PHPMailer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/POP3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/SMTP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/TwitterAPIExchange.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/all.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/comptweet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/mail2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/newtaille.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/recup_tweet.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/reinit_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/tweeter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/tamagotweet/php/vomi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/Doom_Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/arme_anim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/1ere arme.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/ak.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/ak.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/armes_animé/1ere arme.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/armes_animé/gateline.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/armes_animé/pistolet.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/armes_animé/pompe.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/bazooka-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/bazooka-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/bazooka.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/flingue.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/gateline-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/gateline.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/gateline_clone-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/gateline_petite2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/grenade.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/inventaire_arme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/medikit.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/medikit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/mitraillette.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/mitraillette_icones.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/pistolet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/pompe.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/armes/pompe_icone.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/map/MAP01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/map/map02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/map/map02_modifié.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/map/map_final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/boss.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/mechant.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mechant_boss/monstre_base.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mort ou fin/fin du game.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/mort ou fin/mort_nous.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/retry_bouton.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/images/visage_vie.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/javascript/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/musique/music to doom level 1-BEECC3xoCVU.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Formation_web_dev/the_doom_project/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemple_laure/Personnage.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../exemple_laure/appel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/BDD/pokemon_tp.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/BDD/pokemon_tp.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/css/combat.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/css/combat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/html/combat.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/html/combat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/php/Combat.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/php/Combat.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/php/Pokemon2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/php/Pokemon2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/php/equipe.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/php/equipe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/php/main.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/php/main.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/php/pok_choice.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/php/pok_choice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pokemon/php/testUsers.php" beforeDir="false" afterPath="$PROJECT_DIR$/../../pokemon/php/testUsers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../symfony/cours-ajax" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="25" column="42" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="17" column="1" lean-forward="true" selection-end-line="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build/index.html" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="356" />
+    <option name="y" value="86" />
+    <option name="width" value="798" />
+    <option name="height" value="866" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mon_morpion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mon_morpion" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mon_morpion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mon_morpion" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mon_morpion" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mon_morpion" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="580c34b3-ba43-4c94-940e-1b551cad97f2" name="Default Changelist" comment="" />
+      <created>1568188268905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568188268905</updated>
+      <workItem from="1568188270109" duration="1909000" />
+      <workItem from="1568195450959" duration="1141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3050000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1600" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25288832" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SonarLint" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="RNConsole" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="17" column="1" lean-forward="true" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="25" column="42" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

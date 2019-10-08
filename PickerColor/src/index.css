@@ -1,0 +1,45 @@
+.row{
+    display:flex;
+    flex-direction: row;
+}
+.border{
+    width:200px;
+    height:200px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 50px;
+}
+
+.bleu {
+    width:200px;
+    height:200px;
+    border-style: solid;
+    border-color: black;
+    background-color: blue;
+}
+
+.rouge{
+    width:200px;
+    height:200px;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+
+}
+
+.vert{
+    width:200px;
+    height:200px;
+    border-style: solid;
+    border-color: black;
+    background-color: green;
+}
+
+.jaune{
+    width:200px;
+    height:200px;
+    border-style: solid;
+    border-color: black;
+    background-color: yellow;
+
+}
