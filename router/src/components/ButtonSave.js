@@ -34,7 +34,7 @@ export class ButtonSave extends Component {
             <Fragment>
                 <form>
                     <label>Title: </label>
-                    <input type="text" onChange={this.handleChange}/>&nbsp; /* Toujours mettre un onChange sur un input pour capter les changements*/
+                    <input type="text" onChange={this.handleChange}/>&nbsp; {/* Toujours mettre un onChange sur un input pour capter les changements*/}
                     <button type="submit" onClick={this.handleCreate}>Create</button>
                 </form>
             </Fragment>

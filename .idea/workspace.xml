@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="525c3b3a-7916-40f7-8209-7e568e3eb38d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../Morpion/Morpion_pierre" beforeDir="false" afterPath="$PROJECT_DIR$/../Morpion/Morpion_pierre" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Projet_LiorChamla_symfony_4/MeetNRent" beforeDir="false" afterPath="$PROJECT_DIR$/../Projet_LiorChamla_symfony_4/MeetNRent" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pokemonwar" beforeDir="false" afterPath="$PROJECT_DIR$/../pokemonwar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../symfony/TP_reservation2/src/AppBundle/Entity/Home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../symfony/TP_reservation2/src/AppBundle/Entity/Home.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tamagotweet" beforeDir="false" afterPath="$PROJECT_DIR$/../tamagotweet" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY/1st_example/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/1st_example/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre.js" beforeDir="false" afterPath="$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/src/Rout.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/Rout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/src/components/ButtonSave.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/components/ButtonSave.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/router/src/components/TodoId.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/src/components/TodoId.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,38 +26,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="241">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="400">
+              <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
               <folding>
                 <element signature="e#0#49#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/components/Button.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -112,27 +87,26 @@
         <option value="$PROJECT_DIR$/router/src/Route.js" />
         <option value="$PROJECT_DIR$/router/src/App2.js" />
         <option value="$PROJECT_DIR$/router/src/components/NotFound.js" />
-        <option value="$PROJECT_DIR$/router/src/components/App.js" />
         <option value="$PROJECT_DIR$/router/src/index.js" />
-        <option value="$PROJECT_DIR$/router/src/Rout.js" />
-        <option value="$PROJECT_DIR$/router/src/components/ButtonSave.js" />
-        <option value="$PROJECT_DIR$/router/src/components/TodoId.js" />
         <option value="$PROJECT_DIR$/marked_down_editor/src/index.js" />
         <option value="$PROJECT_DIR$/marked_down_editor/src/App.js" />
         <option value="$PROJECT_DIR$/marked_down_editor/src/sampleText.js" />
         <option value="$PROJECT_DIR$/UDEMY/1st_example/src/index.js" />
         <option value="$PROJECT_DIR$/UDEMY/1st_example/src/components/Button.js" />
-        <option value="$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre.js" />
         <option value="$PROJECT_DIR$/UDEMY/1st_example/src/components/membre2.js" />
         <option value="$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre2.js" />
+        <option value="$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre.js" />
+        <option value="$PROJECT_DIR$/router/src/components/ButtonSave.js" />
+        <option value="$PROJECT_DIR$/router/src/components/App.js" />
+        <option value="$PROJECT_DIR$/router/src/Rout.js" />
+        <option value="$PROJECT_DIR$/router/src/components/TodoId.js" />
         <option value="$PROJECT_DIR$/UDEMY/1st_example/src/App.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="800" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="24" />
-    <option name="width" value="800" />
+    <option name="width" value="1600" />
     <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -141,6 +115,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,11 +123,28 @@
               <item name="React" type="b2602c69:ProjectViewProjectNode" />
               <item name="React" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="UDEMY" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="UDEMY" type="462c0819:PsiDirectoryNode" />
+              <item name="1st_example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="UDEMY" type="462c0819:PsiDirectoryNode" />
+              <item name="1st_example" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,16 +205,19 @@
       <workItem from="1570087236329" duration="18276000" />
       <workItem from="1570387998275" duration="8329000" />
       <workItem from="1570522253495" duration="16030000" />
+      <workItem from="1570605143325" duration="1404000" />
+      <workItem from="1570608377324" duration="4688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="104702000" />
+    <option name="totallyTimeSpent" value="110794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="24" width="800" height="876" extended-state="0" />
+    <frame x="0" y="24" width="1600" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33245382" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21116817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,7 +231,7 @@
       <window_info anchor="bottom" id="SonarLint" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49935815" visible="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49935815" weight="0.32893" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5006418" side_tool="true" weight="0.32936507" />
       <window_info anchor="bottom" id="RNConsole" order="13" weight="0.32936507" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -359,13 +354,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todos_crud_express/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/todos_crud_express/index.js" />
     <entry file="file://$PROJECT_DIR$/router/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -417,90 +406,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/router/src/Rout.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="109" selection-start-line="11" selection-start-column="109" selection-end-line="11" selection-end-column="109" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router/src/components/ButtonSave.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marked_down_editor/src/sampleText.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="508" selection-start-column="508" selection-end-column="508" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marked_down_editor/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="37" lean-forward="true" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/marked_down_editor/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="36" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/marked_down_editor/src/sampleText.js" />
+    <entry file="file://$PROJECT_DIR$/marked_down_editor/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/marked_down_editor/src/index.js" />
     <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router/src/components/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-142">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/components/Button.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/router/src/components/TodoId.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#49#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -512,17 +426,74 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/components/Button.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/components/Membre.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/src/components/ButtonSave.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="36" column="151" selection-start-line="36" selection-start-column="151" selection-end-line="36" selection-end-column="151" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/src/components/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/src/components/TodoId.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/router/src/Rout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="111" selection-start-line="11" selection-start-column="111" selection-end-line="11" selection-end-column="111" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/UDEMY/1st_example/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        <state relative-caret-position="400">
+          <caret line="104" column="44" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
           <folding>
             <element signature="e#0#49#0" expanded="true" />
           </folding>

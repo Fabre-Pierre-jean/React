@@ -9,7 +9,7 @@ const Rout = () => (
         <Switch>
             <Route path='/todos/:id' component={TodoId} />
             <Route exact path='/' component={Home} />
-            <Route component={NotFound} /> /* si aucune Route ne match alors affiche le component NotFound */
+            <Route component={NotFound} /> {/* si aucune Route ne match alors affiche le component NotFound */}
         </Switch>
     </BrowserRouter>
 )

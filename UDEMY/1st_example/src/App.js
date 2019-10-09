@@ -102,7 +102,7 @@ class App extends Component {
         const liste = Object.keys(famille)
             .map( membre =>
                 <Membre
-                    key={famille[membre].nom}
+                    key={famille[membre].age}
                     handleChange={(event, id) => this.handleChange(event, membre)}
                     hideName={() => this.hideName(membre)}
                     nom={famille[membre].nom}

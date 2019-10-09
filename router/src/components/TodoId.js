@@ -15,6 +15,12 @@ class TodoId extends Component {
        this.getItem();
     }
 
+    componentDidUpdate() {
+        const sentence = this.state.item.title
+        const text = "a"
+        sentence.includes(text) ? console.log("il y a un a") : console.log("il n'y a pas de a")
+    }
+
     handleChange =(event)=> {
         const title=event.target.value;
         this.setState({item:{title}});
